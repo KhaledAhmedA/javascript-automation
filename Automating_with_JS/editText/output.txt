@@ -1,0 +1,5 @@
+1. Khaled:  Hello there
+2. Engineer:  What is up Khaled
+3. Khaled:  The sky
+4. Engineer:  You're funny
+5. Khaled:  How am I funny? Like a clown? Am I here to amuse you?
